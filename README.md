@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-justinwu13
 
 Running at: <https://jpa03-justinwu13.dokku-10.cs.ucsb.edu>
 
